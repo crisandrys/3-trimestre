@@ -5,3 +5,5 @@
  --secundary-color:#2C74B3;
  --font:"Nunito Sans";
 }
+body{background-color: var(--bg-color);
+}
