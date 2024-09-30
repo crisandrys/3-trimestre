@@ -27,4 +27,9 @@ nav{
 nav a {
     text-decoration: none;
     color: var(--bj-color);
+    margin: 0rem 2rem 3rem 0rem;
+    font-size: 12rem;
+}
+nav a:hove{
+    
 }
